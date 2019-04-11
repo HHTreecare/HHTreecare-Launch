@@ -1,0 +1,20 @@
+# Site Settings
+title: HH Treecare
+email: HHTreecare@gmail.com
+description: Ingleby Barwick  |  Full Spectrum Tree Care  |  Contract Climbing  |  Veteran Owned and Operated 
+keywords: "Ingleby Barwick, Arborist, Climbing Arborist, Contract Climber, Tree Surgeon"  # html meta keywords
+baseurl: "" # the subpath of site
+url: "" # the base hostname & protocol of site
+
+# Social Settings
+500px_url:
+facebook_url: https://www.facebook.com/
+github_url:
+gitlab_url:
+googleplus_url: https://plus.google.com/106087951246022822370
+
+# Google Webmaster Tools
+google_verify: "-3KL5pSbEGuVmXOymCrlYVSbX64YlfEp2HkpvEWIEiE"
+
+# Bing Webmaster Tools
+bing_verify: "9DF45716B9BB93D4F7216C8471E4186F"
